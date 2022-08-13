@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Adityamishra114/crud/static/css/main.073c9b0a.css",
-    "main.js": "/Adityamishra114/crud/static/js/main.1c259c25.js",
-    "index.html": "/Adityamishra114/crud/index.html",
-    "main.073c9b0a.css.map": "/Adityamishra114/crud/static/css/main.073c9b0a.css.map",
-    "main.1c259c25.js.map": "/Adityamishra114/crud/static/js/main.1c259c25.js.map"
+    "main.css": "/crud/static/css/main.073c9b0a.css",
+    "main.js": "/crud/static/js/main.1c259c25.js",
+    "index.html": "/crud/index.html",
+    "main.073c9b0a.css.map": "/crud/static/css/main.073c9b0a.css.map",
+    "main.1c259c25.js.map": "/crud/static/js/main.1c259c25.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",

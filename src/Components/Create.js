@@ -14,7 +14,7 @@ const Create = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     axios
-      .post("https://62e908ba01787ec7120f9d20.mockapi.io/CRUD-PROJECT", {
+      .post("process.REACT_APP_API_URL", {
         name: name,
         email: email,
         phone: phone,

@@ -7,7 +7,7 @@ import Update from "./Components/Update";
 function App() {
   return (
     <div className="container">
-      <BrowserRouter>
+      <BrowserRouter basename="/crud">
         <Routes>
           <Route exact path="/" element={<Create />}></Route>
           <Route exact path="/read" element={<Read />}></Route>
